@@ -1,0 +1,17 @@
+.blog{
+    width: 500px;
+    height: auto;
+    background-image: url("images/food\ img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid maroon;
+    border-radius: 10px;
+    text-align: justify;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
+.blog h1{
+    text-align: center;
+    font-size: 30px;
+}
